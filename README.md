@@ -18,5 +18,5 @@
 
 ### 更多精彩文章等着你来
 <div style="border:1px solid orange">
-	<img src="./imgs/myscancode.jpg"></img>
+<!-- 	<img src="./imgs/myscancode.jpg"></img> -->
 </div>
